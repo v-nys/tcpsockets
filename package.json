@@ -1,0 +1,12 @@
+{
+  "name": "udp-sockets",
+  "version": "1.0.0",
+  "description": "demo UDP sockets",
+  "type": "module",
+  "scripts": {},
+  "author": "Vincent Nys",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
